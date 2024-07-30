@@ -1,0 +1,176 @@
+.style-container .colour-name {
+    background-color: #DDA94B;
+    margin-top: 60px;
+}
+
+.style-container .full-style {
+    background-color: #1E4174;
+    font-size: large;
+    font-weight: 700;
+    color: white;
+    height: 85px;
+    background-color: blue;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+.content-color {
+    background-color: #023B4A;
+    border-radius: 45px;
+}
+
+.style-container .full-style::after {
+    background: transparent;
+}
+
+.style-container .colour-name .arokiah1 {
+    margin: 0;
+    padding: 20px;
+}
+
+.style-containern .full-style .imagestyle {
+    margin-top: 26px;
+
+}
+
+.style-container .full-style .list-views {
+    list-style: none;
+    margin-top: 26px;
+    margin-right: 35px;
+}
+
+.style-container .font-top {
+    margin: 10px;
+}
+
+.style-container .size-imge {
+    height: 40px;
+}
+
+.style-container .ptext-line {
+    margin-top: 20px
+}
+
+.sticky-nav {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 1000;
+}
+
+.pigyorkshire {
+    margin-top: 20px;
+}
+
+.carousel-caption {
+
+    margin-bottom: 30px;
+}
+
+.pigtypecs {
+    margin-bottom: 80px;
+    font-weight: 600;
+    color: yellow;
+}
+
+
+
+.textlargewh {
+    color: yellow;
+    font-style: initial;
+    margin-bottom: 40px;
+    font-weight: 600;
+}
+
+.textlargewhtwo {
+    color: #000000;
+    font-style: initial;
+    color: #ffffff;
+}
+
+.textlargewhtwo1 {
+    margin-bottom: 90px;
+    color: yellow;
+    font-weight: 600;
+}
+
+.card-style {
+    position: absolute;
+    background-color: blue;
+    color: #ffffff;
+    margin-left: 11% !important;
+    width: 80%;
+    height: 50%;
+    border: 8px solid #e7eaf6;
+}
+
+.card-margin {
+    margin-top: 18% !important;
+}
+
+
+.text-decode {
+    text-decoration: none;
+    color: #FFFFFF
+}
+
+.carousel-width {
+    width: 100%;
+    overflow: hidden;
+}
+
+.custom-height {
+    height: 500px;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    bottom: 20px;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 400px
+}
+
+.style-container .carousel-padding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+
+@media (max-width: 768px) {
+    .style-container .liliststy {
+        margin: 10px;
+    }
+
+    .style-container .full-style .list-views {
+        list-style: none;
+        margin-top: 0px;
+        margin-right: 35px;
+        color: black;
+        font-size: x-large;
+    }
+
+    .pigyorkshire {
+        color: #ffffff;
+        font-weight: 700;
+    }
+
+    .card-align-margin {
+        margin-top: 45% !important;
+    }
+
+    .content-color {
+        background: transparent;
+        border-radius: 45px;
+    }
+
+    .textlargewhtwo {
+        color: #000000;
+        font-style: initial;
+    }
+}

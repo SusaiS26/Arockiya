@@ -1,0 +1,17 @@
+.btn-Remove{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+.btn-add{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+.product-image{
+    width: 100px;
+    height: auto;
+}
+.product{
+    margin-left: 10px;
+}
